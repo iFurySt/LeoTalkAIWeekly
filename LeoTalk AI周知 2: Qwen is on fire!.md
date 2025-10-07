@@ -1,4 +1,5 @@
 # LeoTalk AI周知 2: Qwen is on fire!
+# LeoTalk AI Weekly 2: Qwen is on fire!
 
 # 技术研究/技术突破
 
